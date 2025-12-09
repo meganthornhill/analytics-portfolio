@@ -1,21 +1,32 @@
 # Analytics Portfolio
 
-Welcome to my data analytics & operations portfolio.  
-This space will document my journey as I transition into a remote data/ops role.
+Welcome to my data analytics and operations portfolio.
 
-## Current Skills (Learning & Building)
-- SQL
+I am transitioning from a biology and earth science background into Data & Ops Analytics, with a focus on SQL, Excel, and Power BI. This portfolio highlights the projects and skills I am developing as I move toward a remote analytics role.
+
+---
+
+## 🔬 Current Focus Areas
+- SQL (Queries, Joins, Aggregations)
 - Excel (Functions, PivotTables, Cleaning)
-- Power BI (Dashboards, Data Modeling)
+- Power BI (Data Modeling, Dashboards)
 - Data Cleaning & Transformation
-- Data Visualization
-- Business/Operations Analytics
+- Data Visualization & Storytelling
 - Google Data Analytics Certificate (in progress)
 
-## Projects Coming Soon
-- Fitness Analytics Dashboard
-- Business / RevOps KPI Dashboard
-- Product Ops Retention & Churn Dashboard
-- SQL Practice Problems & Solutions
+---
 
-More updates coming as I continue training and building real-world projects.
+## 🌊 Project 01 — Water Quality Analytics Dashboard *(In Progress)*
+An environmental data analysis project exploring water contamination, pH changes, nutrient levels, and overall water health using publicly available datasets.
+
+**Planned components:**
+- Data cleaning & preprocessing
+- Trend analysis (pH, turbidity, nitrates, dissolved oxygen, contaminants)
+- KPI creation (Water Quality Index)
+- Geographic mapping of sampling sites
+- Power BI dashboard with insights
+
+---
+
+## 🏥 Project 02 — ER Overcrowding & Hospital Throughput Dashboard *(Upcoming)*
+A healthcare operations analytics project an
