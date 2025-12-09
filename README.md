@@ -29,4 +29,25 @@ An environmental data analysis project exploring water contamination, pH changes
 ---
 
 ## 🏥 Project 02 — ER Overcrowding & Hospital Throughput Dashboard *(Upcoming)*
-A healthcare operations analytics project an
+A healthcare operations analytics project analyzing emergency room wait times, staffing pressure, patient flow, and seasonal overcrowding patterns.
+
+**Planned components:**
+- Time-series analysis of ER traffic
+- KPI tracking: wait times, LWBS (left without being seen), bed occupancy
+- Forecasting busy periods
+- Power BI dashboard for operational insights
+
+---
+
+## 📊 Additional Projects (Upcoming)
+- SQL Practice Problems & Solutions  
+- Product Ops Retention & Churn Dashboard  
+- Business / RevOps KPI Dashboard  
+
+---
+
+## 🧠 About Me
+Biology-trained analyst transitioning into Data & Ops Analytics, combining scientific reasoning with data-driven insights to understand systems, trends, and operational challenges.
+
+More updates coming as I continue training and building real-world portfolio projects.
+
